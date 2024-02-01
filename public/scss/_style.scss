@@ -45,6 +45,8 @@
   --prime-ten: #ff3294;
   --prime-eleven: #ffce4c;
   --prime-twelve: #ffe500;
+  --prime-red-custom: #c71a38;
+
 }
 
 ::selection {
@@ -380,6 +382,12 @@ p {
   background: #151937;
 }
 
+.dark-bg-custom {
+  background: #32160c;
+}
+
+
+
 /*^^^^^^^^^^^^^^^^^^^^ Scroll Top ^^^^^^^^^^^^^^^^^^^^^*/
 .scroll-top {
   width: 35px;
@@ -394,7 +402,7 @@ p {
   font-size: 25px;
   cursor: pointer;
   border-radius: 50%;
-  background: var(--prime-ten);
+  background: var(--prime-red-custom);
   transition: all 0.3s ease-in-out;
 }
 
@@ -627,7 +635,7 @@ p {
 }
 
 .title-style-nine .main-title span {
-  background: linear-gradient(270.78deg, #ff3636 4.19%, #e28743 96.11%);
+  background: linear-gradient(270.78deg, #b2142f 4.19%, #d31939 96.11%);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
 }
@@ -793,12 +801,12 @@ body .btn-three {
   border-radius: 28px;
   padding: 0 40px;
   position: relative;
-  background: var(--prime-two);
+  background: var(--prime-red-custom); // here
   transition: all 0.3s ease-in-out;
 }
 
 body .btn-three:hover {
-  background: #090f32;
+  background: #7b1616;
 }
 
 body .btn-four {
@@ -6857,7 +6865,7 @@ body .btn-twentySix:hover:after {
 }
 
 .hero-banner-eight .hero-heading span {
-  background: linear-gradient(270.78deg, #ff3636 4.19%, #e28743 96.11%);
+  background: linear-gradient(270.78deg, #b2142f 4.19%, #d31939 96.11%);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
 }
@@ -6903,8 +6911,8 @@ body .btn-twentySix:hover:after {
 .hero-banner-eight .illustration-holder {
   position: absolute;
   right: 5%;
-  top: 2%;
-  width: 37%;
+  top: 0%;
+  width: 42%;
 }
 
 .hero-banner-eight .illustration-holder .shape-one {
@@ -7078,7 +7086,7 @@ body .btn-twentySix:hover:after {
   font-size: 22px;
   line-height: 35px;
   letter-spacing: -0.2px;
-  color: #48494e;
+  color: white;
   margin-top: 35px;
   background: linear-gradient(90deg, rgba(255, 255, 255, 0.053) 0.94%, rgba(255, 255, 255, 0.019) 98.3%);
   border-radius: 10px;
@@ -12346,6 +12354,10 @@ body .btn-twentySix:hover:after {
 
 .margin-top-10 {
   margin-top: 100px;
+}
+
+.margin-top-custom-5 {
+  margin-top: 50px;
 }
 
 .custom-justify-center {

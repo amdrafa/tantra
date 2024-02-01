@@ -10,7 +10,7 @@ const Block2 = () => {
     {
       icon: "/images/media/devasimbolo.png",
       title: "Integre seu Templo Sagrado",
-      description: `Integre seu "corpo" com sua "alma" divida, despertando a potência multidimensional por meio da abertura e purificação da energia sexual, que é a própria energia da vida.`,
+      description: `Integre seu "corpo" com sua alma Divina, despertando a potência multidimensional por meio da abertura e purificação da energia sexual, que é a própria energia da vida.`,
     },
     {
       icon: "/images/media/devasimbolo.png",
@@ -52,8 +52,8 @@ const Block2 = () => {
                 className="lazy-img"
               />
             </div>
-            <h4 className="text-gray mb-10 mt-25">{item.title}</h4>
-            <p className="text-gray-400 opacity-75 mb-25">{item.description}</p>
+            <h4 className="text-white mb-10 mt-25">{item.title}</h4>
+            <p className="text-white opacity-75 mb-25">{item.description}</p>
             <a href="#" className="arrow tran3s">
               <img
                 src="/images/icon/icon_80.svg"

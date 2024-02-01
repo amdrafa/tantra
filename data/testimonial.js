@@ -3,7 +3,7 @@ module.exports = [
     id: 1,
     title: "Very Solid!!",
     rating: 5,
-    text: "They not only understand what I say but read between the lines and also give me ideas of my own.",
+    text: "O curso foi um grande resgate da minha alma, aprisionada por 31 anos. Foram anos sofrendo intimamente, mesmo tendo buscado outras terapias sentia no fundo do meu coração uma tristeza profunda, uma falta de clareza, de propósito. Vivia uma vida vazia, mesmo cercada de coisas boas. Haviam muitos véus, muitas dores, muitas mágoas. Cada módulo do curso, me trouxe libertação, das amarras, dos julgamentos, das culpas que carreguei por muito tempo. Compreender que tudo estava registrado no meu corpo, trabalhando de forma ativa no meu campo, bloqueando o fluxo divino energia sexual. A energia da vida que estava obstruída me deixando perdida nos pensamentos, nas idéias, sem conseguir trazer pra matéria. Sentir o amor, o verdadeiro amor. Isso que o tantra me trouxe em essência. Reverberou dentro de mim essa força divina, princípio, meio e fim que é o amor. O meu amor por mim e que a partir de mim reverberou aos meus relacionamentos amoroso familiares. O amor a vida, em estar viva. O tantra está em tudo e no todo. Me trouxe o prazer de estar viva, de coocriar e de fazer acontecer. Minha prosperidafinanceira, profissional. Abundância de felicidade, de amor, de conexões.",
     author: "Rashed Kabir",
     location: "Claifornia",
     image: "/images/media/img_54.jpg",

@@ -27,7 +27,7 @@ const Header = () => {
     >
       <div className="header-margin">
         <Image
-          src="/images/media/devaprem.png"
+          src="/images/media/devaprem2.png"
           alt="logo"
           width={120}
           height={160}

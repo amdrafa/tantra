@@ -10,7 +10,7 @@ import Block3 from "../../components/home-page/home-8/Block3";
 import Why2ChooseList from "../../components/home-page/home-8/Why2ChooseList";
 import WhyChooseList from "../../components/home-page/home-8/WhyChooseList";
 import Coutner from "../../components/home-page/home-8/Coutner";
-import Testimonial from "../../components/home-page/home-1/Testimonial";
+import Testimonial from "../../components/home-page/home-7/Testimonial";
 import Faq from "../../components/home-page/home-8/Faq";
 import Blog from "../../components/home-page/home-8/Blog";
 import CallToAction from "../../components/home-page/home-8/CallToAction";
@@ -20,10 +20,10 @@ import Image from "next/image";
 
 const crypto = () => {
   return (
-    <div className="pattern-bg-one">
+    <div className="dark-bg-custom">
       <ShapeGroup />
 
-      <Seo pageTitle="Crypto" />
+      <Seo pageTitle="Deva Prem" />
 
       {/* <!-- 
         =============================================
@@ -52,10 +52,10 @@ const crypto = () => {
 
         <div className="illustration-holder" data-aos="fade-right">
           <Image
-            width={600}
-            height={764}
+            width={1500}
+            height={1700}
             layout="intrinsic"
-            src="/images/media/devapremreal.png"
+            src="/images/media/deva-ale-01.png"
             alt="illustration"
             className=" lazy-img"
           />
@@ -74,7 +74,7 @@ const crypto = () => {
         Feature Section Twenty Six
         ============================================== 
         */}
-      <div className="fancy-feature-twentySix position-relative zn2 pt-150 lg-pt-80">
+      <div className="fancy-feature-twentySix position-relative zn2 pt-150 lg-pt-30">
         {/* <div className="wrapper-xl m-auto" data-aos="fade-up">
           <div className="bg mb-200 lg-mb-80">
             <div className="row gx-0">
@@ -89,10 +89,10 @@ const crypto = () => {
             className="title-style-nine text-center mb-60 lg-mb-30"
             data-aos="fade-up"
           >
-            <h2 className="main-title text-gray">
+            <h2 className="main-title text-white">
               Sexualidade <span>Sagrada</span>
             </h2>
-            <p className="text-gray-400 opacity-50 fs-20 pt-15">
+            <p className="text-white opacity-50 fs-20 pt-15">
               A formação nasceu do propósito e missão Deva Prem de ensinar em profundidade e beleza a verdadeira essência do Tantra como caminho consciencial e como filosofia de vida.
             </p>
           </div>
@@ -129,7 +129,7 @@ const crypto = () => {
                   width={569}
                   height={559}
                   layout="intrinsic"
-                  src="/images/media/devaAI-01.jpg"
+                  src="/images/media/deva-real-04.jpeg"
                   alt="illustration"
                   className="lazy-img main-img m-auto"
                 />
@@ -167,7 +167,7 @@ const crypto = () => {
                   width={766}
                   height={766}
                   layout="intrinsic"
-                  src="/images/media/devaAI-02.jpg"
+                  src="/images/media/deva-real-02.jpeg"
                   alt="shape"
                   className="lazy-img illustration-img"
                 />
@@ -178,7 +178,7 @@ const crypto = () => {
         </div>
         {/* /.container */}
 
-        <div className="container margin-top-10">
+        <div className="container margin-top-2">
           <div className="row align-items-center">
             <div className="col-lg-6">
               <WhyChooseList />
@@ -195,7 +195,7 @@ const crypto = () => {
                   width={766}
                   height={766}
                   layout="intrinsic"
-                  src="/images/media/devaAI-03.jpg"
+                  src="/images/media/deva-real-03.jpeg"
                   alt="shape"
                   className="lazy-img illustration-img"
                 />
@@ -207,14 +207,14 @@ const crypto = () => {
 
 
 
-        <div className="wrapper mt-110 lg-mt-60">
+        {/* <div className="wrapper mt-110 lg-mt-60">
           <div className="container">
             <div className="row justify-content-center">
               <Coutner />
             </div>
           </div>
-        </div>
-        {/* /.wrapper */}
+        </div> */}
+
       </div>
 
       <div className="container">
@@ -231,12 +231,10 @@ const crypto = () => {
         Feedback Section Seven
         =====================================================
         */}
-      <div className="inner-content">
-        <div className="feedback_slider_seven">
+      <div className="slider-wrapper mt-10 margin-top-custom-5">
+        <div className="feedback_slider_three">
           <Testimonial />
         </div>
-
-        {/* /.slider-wrapper */}
       </div>
 
       {/* 
@@ -310,7 +308,7 @@ const crypto = () => {
 				Fancy Short Banner Eleven
 			=====================================================
 			*/}
-      <div className="fancy-short-banner-eleven position-relative zn2 pt-130 pb-170 lg-pb-130">
+      <div className="fancy-short-banner-eleven position-relative zn2 pt-30 pb-170 lg-pb-130">
         <div className="container">
           <div className="row">
             <CallToAction />

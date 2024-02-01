@@ -31,7 +31,7 @@ const featureData = [
     id: 5,
     icon: "/images/icon/icon_26.svg",
     title: "Um Trabalho de Luz",
-    text: "Ancorado no conhecimento base da escola de Mistérios do Antigo Egito, Escola de Ísis, onde foram iniciados os metres Yeshua e Maria Magdalena, que fazem parte fortemente da egrógria de ancoramento deste trabalho, trazendo a consciência crística cristalina através de nós.",
+    text: "Ancorado no conhecimento da Escola de Mistérios de Isis, onde os mestres Maria Magdalena e Yeshua foram iniciados, trazendo os códigos da consciência Crística através de nós. Este curso é a única formação para Terapeutas em tantra no Brasil dentro da linhagem  das Rosas.",
     backgroundColor: "#F7EDFF",
   },
 ];

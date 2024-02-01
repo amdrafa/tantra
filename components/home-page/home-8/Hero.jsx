@@ -15,11 +15,11 @@ const Hero = () => {
       />
 
 
-      <h1 className="hero-heading fw-500 text-gray mb-45">
+      <h1 className="hero-heading fw-500 text-white mb-45">
         Formação completa em <span>terapia</span> tântrica.
       </h1>
-      <p className="text-lg text-gray-300 opacity-75 mb-65 lg-mb-50 pe-lg-5">
-        Explore novas dimensões de bem-estar e autoconhecimento nesta jornada única rumo à transformação interior.
+      <p className="text-lg text-white opacity-75 mb-65 lg-mb-50 pe-lg-5">
+        Venha mergulhar nessa incrível  jornada Iniciática da Sexualidade Sagrada, onde integramos as potencialidades de nossa alma aos nossos aspectos humanos.
       </p>
 
       <div className="d-sm-flex align-items-center">
@@ -32,8 +32,8 @@ const Hero = () => {
             <i className="bi bi-play" />
           </span>
           <div className="ps-3">
-            <span className="d-block text-gray fs-15 text-uppercase ">Assitir</span>
-            <strong className="fs-18 fw-500 text-gray d-block">
+            <span className="d-block text-white fs-15 text-uppercase ">Assitir</span>
+            <strong className="fs-18 fw-500 text-white d-block">
               Apresentação
             </strong>
           </div>
@@ -47,9 +47,9 @@ const Hero = () => {
           Entrar em contato
         </Link>
       </div>
-      <h2 className="fw-500 text-gray-400 mt-60 lg-mt-30 mb-5">+250 Alunos</h2>
-      <p className="fs-20 opacity-50 text-gray-500">
-        Avaliação positiva de 100% dos alunos participantes.
+      <h2 className="fw-500 text-white mt-60 lg-mt-30 mb-5">+50 Alunos</h2>
+      <p className="fs-20 opacity-50 text-white">
+        Avaliação positiva de 100% dos participantes.
       </p>
     </>
   );

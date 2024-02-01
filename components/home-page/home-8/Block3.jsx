@@ -36,8 +36,8 @@ const Block3 = () => {
             <div className="icon d-flex align-items-end">
               <Image width={30} height={30} src={data.icon} alt="icon" className="lazy-img" />
             </div>
-            <h4 className="text-gray mt-20 mb-10">{data.title}</h4>
-            <p style={{ color: "gray" }} className="fs-18 text-gray-400">{data.description}</p>
+            <h4 className="text-white mt-20 mb-10">{data.title}</h4>
+            <p style={{ color: "gray" }} className="fs-18 text-gray-25">{data.description}</p>
             {/* {index !== 2 && (
               <div className="arrow d-flex align-items-center justify-content-center rounded-circle position-absolute">
                 <i className="bi bi-chevron-right" />

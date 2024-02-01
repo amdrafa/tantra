@@ -21,24 +21,24 @@ const CallToAction = () => {
   ];
   return (
     <div className="col-xl-7 col-lg-8 col-md-10 m-auto">
-      <div className="title-style-nine text-center mb-40" data-aos="fade-up">
+      {/* <div className="title-style-nine text-center mb-40" data-aos="fade-up">
         <h2 className="main-title text-gray">
           Entre em contato <span>agora mesmo</span>.
         </h2>
       </div>
-      {/* /.title-style-nine */}
+
       <p
-        className="text-gray opacity-75 text-center text-lg mt-40 mb-40 lg-mt-20"
+        className="text-white opacity-75 text-center text-lg mt-40 mb-40 lg-mt-20"
         data-aos="fade-up"
       >
-        Você será encaminhado para o WhatsApp da DevaPrem.
-      </p>
+        Você será encaminhado para o WhatsApp.
+      </p> */}
       <div className="custom-justify-center">
         <Link
           href="#"
           className="btn-three text-gray fw-500 tran3s mb-25 me-4 order-sm-first"
         >
-          Entrar em contato com a Deva Prem
+          Quero saber mais!
         </Link>
       </div>
     </div>
