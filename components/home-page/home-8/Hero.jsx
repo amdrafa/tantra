@@ -23,7 +23,7 @@ const Hero = () => {
       </p>
 
       <div className="d-sm-flex align-items-center">
-        <div
+        {/* <div
           onClick={() => setOpen(true)}
           role="button"
           className="fancybox video-icon tran3s mb-25 d-flex align-items-center order-sm-last"
@@ -37,11 +37,11 @@ const Hero = () => {
               Apresentação
             </strong>
           </div>
-        </div>
+        </div> */}
         {/* End popup video */}
 
         <Link
-          href="#"
+          href="https://wa.me/47996322254"
           className="btn-three text-gray fw-500 tran3s mb-25 me-4 order-sm-first"
         >
           Entrar em contato

@@ -34,7 +34,7 @@ const Block2FeatureList = () => {
         ))}
       </ul>
       <Link
-        href="#"
+        href="https://wa.me/47996322254"
         className="btn-three text-gray fw-500 tran3s mb-25 me-4 order-sm-first"
       >
         Entrar em contato

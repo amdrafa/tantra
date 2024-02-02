@@ -126,10 +126,10 @@ const crypto = () => {
             >
               <div className="illustration-holder md-mt-50 pe-xxl-1 pe-xl-5 pe-lg-4">
                 <Image
-                  width={569}
-                  height={559}
+                  width={800}
+                  height={900}
                   layout="intrinsic"
-                  src="/images/media/deva-real-04.jpeg"
+                  src="/images/media/new-03.png"
                   alt="illustration"
                   className="lazy-img main-img m-auto"
                 />
@@ -167,7 +167,7 @@ const crypto = () => {
                   width={766}
                   height={766}
                   layout="intrinsic"
-                  src="/images/media/deva-real-02.jpeg"
+                  src="/images/media/new-02.png"
                   alt="shape"
                   className="lazy-img illustration-img"
                 />
@@ -195,7 +195,7 @@ const crypto = () => {
                   width={766}
                   height={766}
                   layout="intrinsic"
-                  src="/images/media/deva-real-03.jpeg"
+                  src="/images/media/new-01.png"
                   alt="shape"
                   className="lazy-img illustration-img"
                 />
@@ -303,12 +303,54 @@ const crypto = () => {
         </div>
       </div> */}
 
+      <div className="container margin-top-2">
+        <div className="row align-items-center">
+          <Image
+            width={766}
+            height={766}
+            layout="intrinsic"
+            src="/images/media/real-04.png"
+            alt="shape"
+            className="lazy-img illustration-img"
+          />
+          <Image
+            width={766}
+            height={766}
+            layout="intrinsic"
+            src="/images/media/real-03.png"
+            alt="shape"
+            className="lazy-img illustration-img margin-top-5"
+          />
+        </div>
+      </div>
+
+      <div className="container margin-top-5">
+        <div className="row align-items-center">
+          <Image
+            width={766}
+            height={766}
+            layout="intrinsic"
+            src="/images/media/real-01.png"
+            alt="shape"
+            className="lazy-img illustration-img"
+          />
+          <Image
+            width={766}
+            height={766}
+            layout="intrinsic"
+            src="/images/media/real-02.png"
+            alt="shape"
+            className="lazy-img illustration-img margin-top-5"
+          />
+        </div>
+      </div>
+
       {/*
 			=====================================================
 				Fancy Short Banner Eleven
 			=====================================================
 			*/}
-      <div className="fancy-short-banner-eleven position-relative zn2 pt-30 pb-170 lg-pb-130">
+      <div className="fancy-short-banner-eleven position-relative zn2 pt-100 pb-170 lg-pb-130">
         <div className="container">
           <div className="row">
             <CallToAction />
