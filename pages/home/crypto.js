@@ -344,6 +344,18 @@ const crypto = () => {
           />
         </div>
       </div>
+      <div className="container margin-top-5">
+        <div className="row align-items-center">
+          <Image
+            width={766}
+            height={766}
+            layout="intrinsic"
+            src="/images/media/certificado.png"
+            alt="shape"
+            className="lazy-img illustration-img"
+          />
+        </div>
+      </div>
 
       {/*
 			=====================================================
@@ -365,24 +377,9 @@ const crypto = () => {
 			=====================================================
 			*/}
       {/* <div className="footer-style-eight theme-basic-footer">
-        <div className="top-footer zn2 position-relative">
-          <img
-            src="/images/shape/shape_107.svg"
-            alt="shape"
-            className="lazy-img shapes shape-one"
-          />
-          <div className="container">
-            <div className="inner-wrapper m-auto">
-              <div className="row">
-                <Footer />
-              </div>
-            </div>
-           
-          </div>
-        </div>
-      
+
         <CopyrightFooter2 />
-      
+
       </div> */}
     </div>
     // main-page-wrapper

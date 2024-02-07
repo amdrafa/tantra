@@ -25,7 +25,7 @@ const Block2 = () => {
     {
       icon: "/images/media/devasimbolo.png",
       title: "Um Trabalho de Luz",
-      description: "Ancorado no conhecimento dos Mistérios do Antigo Egito e Escola de Ísis, onde mestres Yeshua e Maria Madalena foram iniciados, trazendo a consciência crística cristalina através de nós.",
+      description: "Ancorado no conhecimento dos Mistérios do Antigo Egito e Escola de Ísis, onde mestres Yeshua e Maria Madalena foram iniciados, trazendo a consciência Crística cristalina pelos códigos de DNA matriz original, através de nós.",
     },
   ];
 

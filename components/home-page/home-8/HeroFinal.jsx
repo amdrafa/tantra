@@ -2,7 +2,7 @@ import Link from "next/link";
 import { useState } from "react";
 import ModalVideo from "react-modal-video";
 
-const Hero = () => {
+const HeroFinal = () => {
   const [isOpen, setOpen] = useState(false);
   return (
     <>
@@ -16,7 +16,7 @@ const Hero = () => {
 
 
       <h1 className="hero-heading fw-500 text-white mb-45">
-        Formação completa em <span>Terapia Tântrica</span>.
+        <span>Terapia Tântrica</span>.
       </h1>
       <p className="text-lg text-white opacity-75 mb-65 lg-mb-50 pe-lg-5">
         Venha mergulhar nessa incrível jornada Iniciática da Sexualidade Sagrada, onde abrimos nossa energia Kundalini para seus verdadeiros potenciais Divinos. Unificando seu Eu multidimensional com seu Eu humano.

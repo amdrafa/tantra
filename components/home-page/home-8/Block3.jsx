@@ -4,7 +4,7 @@ const CardData = [
   {
     icon: "/images/icon/content.svg",
     title: "Módulo 1 - Elemento Terra",
-    description: "Tantra - Linhagem Egípcia, Hin ica, Linhagem Real e conexões com o campo da Nova Terra, Kundalini - Portais Secretos, Leis Herméticas e as Leis da Vida, Planos e Multidimensionalidade, Caminho da Integração dos corpos, físico e astrais, Couraças e Psicossomática, Prazer no sofrimento, Desbloqueio dos canais energéticos.",
+    description: "Tantra - Linhagem Egípcia, Hindu, Linhagem Real e conexões com o campo da Nova Terra, Kundalini - Portais Secretos, Leis Herméticas e as Leis da Vida, Planos e Multidimensionalidade, Caminho da Integração dos corpos, físico e astrais, Couraças e Psicossomática, Prazer no sofrimento, Desbloqueio dos canais energéticos.",
   },
   {
     icon: "/images/icon/content.svg",

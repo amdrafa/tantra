@@ -1,15 +1,18 @@
 const reasons = [
   {
+    title: "Consteladora Familiar.",
+  },
+  {
     title: "Thetahealling.",
   },
   {
-    title: "Rebirthing.",
+    title: "Rebirthing - Renascimento.",
   },
   {
-    title: "Access.",
+    title: "Barras de Access.",
   },
   {
-    title: "Deeksha."
+    title: "Deeksha Giver e Reiki."
   }
 ];
 

@@ -1,15 +1,15 @@
 const reasons = [
   {
-    title: "Reiki.",
+    title: "Sacerdotisa das Rosas.",
   },
   {
-    title: "Apômetra.",
+    title: "Apometria Quântica.",
   },
   {
-    title: "Maga divina do fogo.",
+    title: "Magia Divina das Sete chamas Sagradas.",
   },
   {
-    title: "Iniciada como sacerdotisa da irmandade das rosas."
+    title: "Iniciada como Sacerdotisa da Irmandade das Rosas."
   }
 ];
 

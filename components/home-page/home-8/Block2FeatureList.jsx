@@ -21,12 +21,12 @@ const Block2FeatureList = () => {
       <div className="title-style-nine">
         {/* <div className="sc-title">Educadora</div> */}
         <h2 className="main-title text-white">
-          Conhecendo a <span>terapeuta</span>.
+          Conhecendo a <span>Terapeuta</span>.
         </h2>
       </div>
       <p className="text-lg text-white opacity-75 pt-20 pb-30 lg-pb-20">
 
-        Deva Prem é Mestra em Sexualidade Sagrada, com experiência em terapia vibracional tântrica. Ao longo de muitos anos, ela acumulou amplo conhecimento clínico e alcançou resultados surpreendentes.
+        Deva Prem é Mestra em Sexualidade Sagrada, Sacerdotisa de Isis, com muitos anos de experiência em atendimentos com a terapia Vibracional Tântrica.  Onde acumulou amplo conhecimento clínico e alcançou resultados surpreendentes.
       </p>
       <ul className="style-none list-item fs-18 text-white opacity-75">
         {featureList.map((feature, index) => (
