@@ -42,6 +42,30 @@ const items = [
     feedback:
       "Ao passar por essa jornada iniciática profunda, imaginei como seria se todos os seres tivessem a oportunidade de experimentar as curas que o tantra pode trazer... A condução certeira da Deva Prem torna a recomendação para qualquer um uma escolha fácil. Iniciar no caminho do Tantra é adentrar o portal do amor ao nosso corpo físico, tê-lo como companheiro de vida e não mais fonte de bloqueios e dor. Que mais e mais seres se permitam e se atrevam, pois o mundo fica um lugar mais lindo à medida que cada um acende sua luz.",
   },
+  {
+    name: "Rani Prem",
+    location: "Balneário Camburiú - Santa Catarina",
+    image: "/images/media/img_20.jpg",
+    rating: 5,
+    feedback:
+      "Adentrar ao Tântra me trouxe a conexão com meu ser, me permitiu me reconhecer novamente me libertando de padrões de sofrimento, me trouxe o domínio sobre meus extintos, me colocou para olhar cada sombra que eu alimentava e que me impediam de viver uma vida leve. Na piscicossomatica pude compreender o porquê de cada couraça, pude voltar a me expressar, pude voltar me sentir.Estava aprisionada em um corpo rígido e cheio de memórias de dor abusos e traumas, permitidos por mim por que reconhecia o meu valor. Foi uma experiência dolorosa mas de grande cura pois compreendi que eu não precisava mais ser forte o tempo todo e estava tudo bem me sentir frágil (...)",
+  },
+  {
+    name: "Maurina",
+    location: "Balneário Camburiú - Santa Catarina",
+    image: "/images/media/img_20.jpg",
+    rating: 5,
+    feedback:
+      "Todas as técnicas vivência dos no curso  e através da Massagem Tântrica, me trouxeram uma conexão com meu próprio corpo, me fizeram sentir mais presente para realizar minhas atividades do dia a dia, trouxeram uma consciência de expansão de prazeres que eu jamais sonharia. Me devolveu a autoestima, autoamor e me  despertou em todos os sentidos, e de uma  forma incrível ativando todos os meus canais energéticos, me proporcionando também curas nunca por mim imagináveis.Desmistificar, aceitar e curar minhas  feridas emocionais e espirtuais através do Tantra foi como se me entregassechave do meu corpo. Livrar-me das crenças limitantes e de meus traumas me deram uma nova perspectiva sobre o meu prazea minha sexualidade!!",
+  },
+  {
+    name: "Atharva Prem",
+    location: "Balneário Camburiú - Santa Catarina",
+    image: "/images/media/img_20.jpg",
+    rating: 5,
+    feedback:
+      "Através do Tantra me permiti estar em um lugar de acolhimento e respeito comigo mesmo. Aceitei ser livre e me encorajei a superar limites, com calma , auto responsabilidade e amor. Meus desafios pessoais se tornaram mais leves porque hoje experimento prazer em cada etapa do processo. A condução da Deva Prem é envolvente e nos leva a um retorno às origens, ao ventre materno. Um trabalho de renascimento e reconstrução do ser. Cada encontro é um salto quântico de integração do nosso corpo físico, emocional e espiritual que nos remete a um estado de êxtase completo. Um sentimento de orgulho de ser exatamente como sou! Sem culpas.",
+  },
 ];
 
 const FeedbackSlider = () => {
@@ -95,11 +119,11 @@ const FeedbackSlider = () => {
             </ul>
             <p>{item.feedback}</p>
             <div className="d-flex align-items-center">
-              <img
+              {/* <img
                 src={item.image}
                 alt="media"
                 className="avatar rounded-circle"
-              />
+              /> */}
               <h6 className="name fs-20 fw-500 m0 ps-4">
                 {item.name}{" "}
                 <span className="d-block fw-normal">{item.location}</span>

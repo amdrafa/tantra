@@ -231,6 +231,14 @@ const crypto = () => {
         Feedback Section Seven
         =====================================================
         */}
+
+
+
+
+
+
+
+
       <div className="slider-wrapper mt-10 margin-top-custom-5">
         <div className="feedback_slider_three">
           <Testimonial />
@@ -303,7 +311,34 @@ const crypto = () => {
         </div>
       </div> */}
 
+
       <div className="container margin-top-2">
+        <div className="row align-items-center">
+          <iframe
+            width="853"
+            height="480"
+            src={`https://www.youtube.com/embed/rpD3ygDCr2k`}
+            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+            allowFullScreen
+            title="Embedded youtube"
+          />
+        </div>
+      </div>
+
+      <div className="container margin-top-10">
+        <div className="row align-items-center">
+          <iframe
+            width="853"
+            height="480"
+            src={`https://www.youtube.com/embed/_rDsHNIfYXI`}
+            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+            allowFullScreen
+            title="Embedded youtube"
+          />
+        </div>
+      </div>
+
+      <div className="container margin-top-10">
         <div className="row align-items-center">
           <Image
             width={766}
