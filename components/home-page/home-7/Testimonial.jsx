@@ -3,8 +3,8 @@ import Slider from "react-slick";
 
 const items = [
   {
-    name: "Fer Frujuelle",
-    location: "Itajaí, Santa Catarina",
+    name: "Fernanda Frujuelle",
+    location: "Rio de Janeiro",
     image: "/images/media/img_18.jpg",
     rating: 5,
     feedback:
@@ -12,7 +12,7 @@ const items = [
   },
   {
     name: "Nayana Prem",
-    location: "Itajaí - Santa Catarina",
+    location: "Gaspar",
     image: "/images/media/img_19.jpg",
     rating: 5,
     feedback:
@@ -20,7 +20,7 @@ const items = [
   },
   {
     name: "Niyati Prem",
-    location: "Balneário Camburiú - Santa Catarina",
+    location: "Itajaí",
     image: "/images/media/img_20.jpg",
     rating: 5,
     feedback:
@@ -28,7 +28,7 @@ const items = [
   },
   {
     name: "Gahan Prem",
-    location: "Balneário Camburiú - Santa Catarina",
+    location: "Itapema",
     image: "/images/media/img_20.jpg",
     rating: 5,
     feedback:
@@ -36,7 +36,7 @@ const items = [
   },
   {
     name: "Valéria ferreira",
-    location: "Balneário Camburiú - Santa Catarina",
+    location: "Curitiba",
     image: "/images/media/img_20.jpg",
     rating: 5,
     feedback:
@@ -44,15 +44,15 @@ const items = [
   },
   {
     name: "Rani Prem",
-    location: "Balneário Camburiú - Santa Catarina",
+    location: "Balneário Camburiú",
     image: "/images/media/img_20.jpg",
     rating: 5,
     feedback:
       "Adentrar ao Tântra me trouxe a conexão com meu ser, me permitiu me reconhecer novamente me libertando de padrões de sofrimento, me trouxe o domínio sobre meus extintos, me colocou para olhar cada sombra que eu alimentava e que me impediam de viver uma vida leve. Na piscicossomatica pude compreender o porquê de cada couraça, pude voltar a me expressar, pude voltar me sentir.Estava aprisionada em um corpo rígido e cheio de memórias de dor abusos e traumas, permitidos por mim por que reconhecia o meu valor. Foi uma experiência dolorosa mas de grande cura pois compreendi que eu não precisava mais ser forte o tempo todo e estava tudo bem me sentir frágil (...)",
   },
   {
-    name: "Maurina",
-    location: "Balneário Camburiú - Santa Catarina",
+    name: "Maurina Amaral",
+    location: "Camburiú",
     image: "/images/media/img_20.jpg",
     rating: 5,
     feedback:
@@ -60,7 +60,7 @@ const items = [
   },
   {
     name: "Atharva Prem",
-    location: "Balneário Camburiú - Santa Catarina",
+    location: "Balneário Camburiú",
     image: "/images/media/img_20.jpg",
     rating: 5,
     feedback:
