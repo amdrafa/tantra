@@ -5,12 +5,14 @@ import Image from "next/image";
 const Testimonial = () => {
   var settings = {
     dots: false,
-    infinite: true,
+    infinite: false,
     autoplay: true,
     speed: 500,
     arrows: false,
-    slidesToShow: 3,
+    slidesToShow: 1,
     slidesToScroll: 1,
+    pauseOnHover: true,
+    pauseOnFocus: true,
 
     responsive: [
       {
@@ -39,7 +41,7 @@ const Testimonial = () => {
   return (
     <>
       <Slider {...settings}>
-        {testimonial.slice(0, 4).map((item) => (
+        {testimonial.slice(0, 7).map((item) => (
           <div className="item" key={item.id}>
             <div className="feedback-block-eleven">
               <div className="top-header d-flex align-items-center justify-content-between">
