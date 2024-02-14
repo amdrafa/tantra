@@ -7,7 +7,7 @@ const Testimonial = () => {
     dots: false,
     infinite: false,
     autoplay: true,
-    speed: 500,
+    speed: 700,
     arrows: false,
     slidesToShow: 1,
     slidesToScroll: 1,
