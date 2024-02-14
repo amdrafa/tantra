@@ -326,7 +326,7 @@ const crypto = () => {
 
       <div className="container">
         <div
-          className="title-style-nine text-center mb-60 lg-mb-30"
+          className="title-style-nine text-center mb-60 lg-mb-30 mt-10"
           data-aos="fade-up"
         >
           <h2 className="main-title text-white">
