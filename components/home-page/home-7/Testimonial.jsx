@@ -41,7 +41,7 @@ const Testimonial = () => {
   return (
     <>
       <Slider {...settings}>
-        {testimonial.slice(0, 7).map((item) => (
+        {testimonial.slice(0, 8).map((item) => (
           <div className="item" key={item.id}>
             <div className="feedback-block-eleven">
               <div className="top-header d-flex align-items-center justify-content-between">

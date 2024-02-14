@@ -48,7 +48,7 @@ module.exports = [
     id: 6,
     title: "Rani Prem | Lilian Fiorentin",
     rating: 5,
-    text: "Adentrar ao Tântra me trouxe a conexão com meu ser, me permitiu me reconhecer novamente me libertando de padrões de sofrimento, me trouxe o domínio sobre meus extintos, me colocou para olhar cada sombra que eu alimentava e que me impediam de viver uma vida leve. Na piscicossomatica pude compreender o porquê de cada couraça, pude voltar a me expressar, pude voltar me sentir.Estava aprisionada em um corpo rígido e cheio de memórias de dor abusos e traumas, permitidos por mim por que reconhecia o meu valor. Foi uma experiência dolorosa mas de grande cura pois compreendi que eu não precisava mais ser forte o tempo todo e estava tudo bem me sentir frágil (...)",
+    text: "Adentrar ao Tântra me trouxe a conexão com meu ser, me permitiu me reconhecer novamente me libertando de padrões de sofrimento, me trouxe o domínio sobre meus extintos, me colocou para olhar cada sombra que eu alimentava e que me impediam de viver uma vida leve. Na piscicossomatica pude compreender o porquê de cada couraça, pude voltar a me expressar, pude voltar me sentir.Estava aprisionada em um corpo rígido e cheio de memórias de dor abusos e traumas, permitidos por mim por que nreconhecia o meu valor. Foi uma experiência dolorosa mas de grande cura pois compreendi que eu não precisava mais ser forte o tempo todo e qestava tudo bem me sentir frágil. Encontrando assim o equilíbrio entre minhas energias feminina e masculina. Na Senssitive eu pude compreender minhas faltas, faltas de carinho, faltas de afeto entendi que me doava de maisaceitava menos do que eu merecia porque  precisava me curar me preencher de amor próprio para me completar.ComSenssitive pude me nutrir desse amor, amor ao meu corpo meu templo sagrado. Pude me reconhecer e me sentir novamente sentindo cada pedacinho do meu corpo.Me sentindo viva e amada. Na Ioni massagem pude compreender a minha delicadeza, como desabrochar de uma rosa 🌹.Da importância de ser tocada com amor e respeito, pude liberar muitas memórias de dor de abuso e a cada movimento pusentir elas sendo enviadas para o coração e para mente para serem compredidas curadas e a cada onda orgastica sentia essmemórias sendo jogadas para fora me libertando de todas as memórias de dor, que me impediam de viver no amor e na puredo ser.Pude me sentir leve e merecedora de uma vida próspera, abundante prazerosa e rica de afeto. 🌹❤️",
     author: "Balneário Camburiú",
     location: "Balneário Camburiú",
     image: "/images/media/img_20.jpg",
@@ -64,7 +64,7 @@ module.exports = [
 
   },
   {
-    id: 7,
+    id: 8,
     title: "Yamuna Prem | Elisandra",
     rating: 5,
     text: "Eu sou Elisandra,  minha jornada no Tantra foi profunda e transformadora. A DEVA oferece muito além de uma FORMAÇÃO EM TANTRASomos convidados amorosamente a mergulhar em nós mesmos para o sentir.Cada técnica do tantra, cura memórias impressas corpo e na alma, que impedem que o fluxo da vida flua através de nós.Foi desafiador sentir dores antigas, feridas ainda abertas, crenças e bloqueios que realmente me paralisavam...hojealegria e a leveza imperam meus dias!Essa experiência no Caminho sagrado foi incrível! Tanto amor e respeito ainda estão me transformando a cada momento.Quanpreciso, volto lá, “naquele espaço tempo mágico”, para lembrar minha alma que sou YAMUNA PREM(Rios de Amor), e como taposso ser livre, e ser amor! Gratidão por cada momento, família que guardo no coração!",
