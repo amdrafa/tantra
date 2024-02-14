@@ -237,10 +237,23 @@ const crypto = () => {
 
 
 
-
+      <div className="container">
+        <div
+          className="title-style-nine text-center mb-60 lg-mb-30 mt-100"
+          data-aos="fade-up"
+        >
+          <h2 className="main-title text-white">
+            Confira nossos casos de <span>Sucesso</span>
+          </h2>
+          <p className="text-white opacity-50 fs-20 pt-15">
+            Arraste para o lado pra ler mais...
+          </p>
+        </div>
+      </div>
 
       <div className="slider-wrapper mt-10 margin-top-custom-5">
-        <div className="feedback_slider_three">
+
+        <div className="container feedback_slider_three">
           <Testimonial />
         </div>
       </div>
@@ -311,8 +324,21 @@ const crypto = () => {
         </div>
       </div> */}
 
+      <div className="container">
+        <div
+          className="title-style-nine text-center mb-60 lg-mb-30 mt-100"
+          data-aos="fade-up"
+        >
+          <h2 className="main-title text-white">
+            Depoimentos em  <span>vídeo</span>
+          </h2>
+          <p className="text-white opacity-50 fs-20 pt-15">
+            Vá para baixo para ver mais...
+          </p>
+        </div>
+      </div>
 
-      <div className="container margin-top-2">
+      <div className="container margin-top-10">
         <div className="row align-items-center">
           <iframe
             width="853"
