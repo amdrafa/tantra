@@ -5,7 +5,7 @@ import Image from "next/image";
 const Testimonial = () => {
   var settings = {
     dots: false,
-    infinite: false,
+    infinite: true,
     autoplay: true,
     speed: 700,
     arrows: false,
